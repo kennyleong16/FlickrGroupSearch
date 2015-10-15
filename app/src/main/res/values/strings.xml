@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Flickr Group Search</string>
+
+    <string name="search_title">Search Group Name</string>
+
+    <string name="search_result_title">Search results for \"%1$s\"</string>
+    <string name="search_no_result">Sorry, no result found! </string>
+
+
+</resources>
